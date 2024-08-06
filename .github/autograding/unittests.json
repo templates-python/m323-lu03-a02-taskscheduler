@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_task_execution_order",
+    "function": "test_task_execution_order",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_task_execution_with_delay",
+    "function": "test_task_execution_with_delay",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_task_execution_order_expert",
+    "function": "test_task_execution_order_expert",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_task_execution_with_individual_delays",
+    "function": "test_task_execution_with_individual_delays",
+    "timeout": 10,
+    "points": 1
+  }
+]
